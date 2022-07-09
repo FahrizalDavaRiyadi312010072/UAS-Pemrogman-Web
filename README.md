@@ -8,7 +8,7 @@
 # MATKUL    : Pemrogman Web
 # PRODI     : Teknik Informatika
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 <img width="960" alt="no  1" src="https://user-images.githubusercontent.com/101703423/178116334-50e25833-1ad5-4cf4-8b26-493599b62645.png">
 <img width="960" alt="no 2" src="https://user-images.githubusercontent.com/101703423/178116336-6182bb89-ac82-4ba1-b3b5-8c86b3e56e63.png">
 <img width="881" alt="no 3 A" src="https://user-images.githubusercontent.com/101703423/178116348-1d9b7251-d41b-4ffd-93c3-57a3efcb451a.png">
